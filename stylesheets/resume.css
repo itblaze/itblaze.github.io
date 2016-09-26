@@ -7,6 +7,22 @@ body {
 	background-color: #ccffff;
 }
 
+#personalInformation {
+	background-color: #ff0000;
+	text-align: center;
+}
+
+#section {
+	float: left;
+	width: 50%;
+	height: 100pt;
+}
+
+#sectionInfo {
+	float: right;
+	width: 50%;
+}
+
 .heading {
 	font-weight: bold;
 }
