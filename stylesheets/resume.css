@@ -1,0 +1,20 @@
+
+/* Stylesheet for resume.html*/
+
+body {
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 15px;
+	background-color: #ccffff;
+}
+
+.heading {
+	font-weight: bold;
+}
+
+.italized {
+	font-style: italic;
+}
+
+.companyName {
+	font-weight: bold;
+}
