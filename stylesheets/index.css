@@ -1,0 +1,15 @@
+/* stylesheet for index.html */
+
+body {
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	font-size: 15px;
+	text-align: center;
+}
+
+#photo {
+	width: 100%;
+}
+#coverPhoto {
+	width: 120px;
+	height: 150px;
+}
